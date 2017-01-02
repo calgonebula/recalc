@@ -1,0 +1,14 @@
+#container {
+  margin: 0;
+  width: 400px;
+  height: 600px;
+  background-color: lightblue;
+}
+
+#right {
+  margin-left: 300px;
+}
+
+#left {
+  float: left;
+}

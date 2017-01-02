@@ -1,0 +1,15 @@
+#delete-button {
+  background-color: brown;
+  /*float: left;*/
+  height: 95px;
+  width: 300px;
+  font-size: 50px;
+  font-family: sans-serif;
+  text-decoration: none;
+  border: none;
+  display: inline-block;
+}
+
+#delete-button:hover {
+  opacity: 0.8;
+}
